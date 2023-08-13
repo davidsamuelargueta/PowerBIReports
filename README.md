@@ -5,7 +5,7 @@ For my first report, I used the temporary table I made in my Video Games Analysi
 
 
 # [Olympic Games Data]()
-For this report I focused solely on Canada and the country's perferomance in the Summer and Winter Olympics. The data set ranges from 2016 to 1904. 
+For this report I decided to use the Olympic Games Data from Kaggle (https://www.kaggle.com/datasets/bhanupratapbiswas/olympic-data) and focused solely on Canada's perferomance in the Summer and Winter Olympics by visualing the amount of medals Canada has won. The data set ranges from 2016 to 1904. 
 
 ## Canada Summer Olympics Performance
 ![CanadaOlympicGames - Summer](https://github.com/davidsamuelargueta/PowerBIReports/assets/119771151/197213c0-f242-4136-8b9d-038d8baa9312)
